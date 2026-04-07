@@ -4,7 +4,6 @@ node_modules/
 *.txt
 test/
 test-app/
-ANTIGRAVITY_PROMPTS.md
 task-log.md
 reqflow.md
 verify_*.js
