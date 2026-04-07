@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Reqflow
 
 > Zero-config Express.js middleware that auto-generates API documentation by observing live traffic.
