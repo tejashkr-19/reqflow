@@ -1,0 +1,10 @@
+node_modules/
+*.db
+*.tgz
+*.txt
+test/
+test-app/
+ANTIGRAVITY_PROMPTS.md
+task-log.md
+reqflow.md
+verify_*.js
