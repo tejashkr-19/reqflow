@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Reqflow
 
 > Zero-config Express.js middleware that auto-generates API documentation by observing live traffic.
@@ -363,3 +364,4 @@ If Reqflow saves you time — consider giving it a ⭐ on GitHub!
 ---
 
 *"The best documentation is the one that writes itself."*
+
